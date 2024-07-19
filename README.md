@@ -24,8 +24,20 @@ Contributed by Snow
 
 ![Tokay sprite preview](./tokay.png)
 
+## Marin
+
+Contributed by Stewmat
+
+![Marin sprite preview](./marin.png)
+
 ## Matty
 
 Contributed by Madam Materia
 
 ![Matty sprite preview](./matty.png)
+
+## Zoroark
+
+Contributed by Snow
+
+![Zoroark sprite preview](./zoroark.png)
