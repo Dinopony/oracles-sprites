@@ -36,6 +36,12 @@ Contributed by Madam Materia
 
 ![Matty sprite preview](./matty.png)
 
+## Vulpera
+
+Contributed by ShugoWah
+
+![Vulpera sprite preview](./vulpera.png)
+
 ## Zoroark
 
 Contributed by Snow
