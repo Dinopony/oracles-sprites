@@ -1,28 +1,16 @@
 # Sprites for Archipelago implementation of "Zelda Oracle" games
 
-## Subrosian
+## Ganondorf
 
-Contributed by Snow
+Contributed by Snowroark
 
-![Subrosian sprite preview](./subrosian.png)
-
-## Piratian
-
-Contributed by Snow
-
-![Piratian sprite preview](./piratian.png)
+![Ganondorf sprite preview](./ganondorf.png)
 
 ## Goron
 
-Contributed by Snow
+Contributed by Snowroark
 
 ![Goron sprite preview](./goron.png)
-
-## Tokay
-
-Contributed by Snow
-
-![Tokay sprite preview](./tokay.png)
 
 ## Marin
 
@@ -36,6 +24,24 @@ Contributed by Madam Materia
 
 ![Matty sprite preview](./matty.png)
 
+## Piratian
+
+Contributed by Snowroark
+
+![Piratian sprite preview](./piratian.png)
+
+## Subrosian
+
+Contributed by Snowroark
+
+![Subrosian sprite preview](./subrosian.png)
+
+## Tokay
+
+Contributed by Snowroark
+
+![Tokay sprite preview](./tokay.png)
+
 ## Vulpera
 
 Contributed by ShugoWah
@@ -44,6 +50,6 @@ Contributed by ShugoWah
 
 ## Zoroark
 
-Contributed by Snow
+Contributed by Snowroark
 
 ![Zoroark sprite preview](./zoroark.png)
