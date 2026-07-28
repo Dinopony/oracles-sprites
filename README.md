@@ -17,61 +17,61 @@ To edit:
   - If you wish to create the .bin but not use it, instead click "Export Binary" and place it in your `Archipelago/data/sprites/oos_ooa` folder
     - You may need to create this folder first
 
-## Ganondorf
+## [Ganondorf](./ganondorf)
 
 Contributed by Snowroark
 
 ![Ganondorf sprite preview](./ganondorf/ganondorf.png)
 
-## Goron
+## [Goron](./goron)
 
 Contributed by Snowroark
 
 ![Goron sprite preview](./goron/goron.png)
 
-## Marin
+## [Marin](./marin)
 
 Contributed by Stewmat
 
 ![Marin sprite preview](./marin/marin.png)
 
-## Matty
+## [Matty](./matty)
 
 Contributed by Madam Materia
 
 ![Matty sprite preview](./matty/matty.png)
 
-## Moblin
+## [Moblin](./moblin)
 
 Contributed by SiegRich
 
 ![Moblin sprite preview](./moblin/moblin.png)
 
-## Piratian
+## [Piratian](./piratian)
 
 Contributed by Snowroark
 
 ![Piratian sprite preview](./piratian/piratian.png)
 
-## Subrosian
+## [Subrosian](./subrosian)
 
 Contributed by Snowroark
 
 ![Subrosian sprite preview](./subrosian/subrosian.png)
 
-## Tokay
+## [Tokay](./tokay)
 
 Contributed by Snowroark
 
 ![Tokay sprite preview](./tokay/tokay.png)
 
-## Vulpera
+## [Vulpera](./vulpera)
 
 Contributed by ShugoWah
 
 ![Vulpera sprite preview](./vulpera/vulpera.png)
 
-## Zoroark
+## [Zoroark](./zoroark)
 
 Contributed by Snowroark
 
