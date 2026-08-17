@@ -64,11 +64,11 @@ Contributed by Snowroark
 
 ![Piratian sprite preview](./piratian/piratian.png)
 
-## [Rope](./rope)
+## [Rope (Naga)](./rope_naga)
 
 Contributed by FerreTrip
 
-![Rope sprite preview](./rope/rope.png)
+![Rope (Naga) sprite preview](./rope_naga/rope_naga.png)
 
 ## [Subrosian](./subrosian)
 
