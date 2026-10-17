@@ -76,6 +76,12 @@ Contributed by Snowroark
 
 ![Subrosian sprite preview](./subrosian/subrosian.png)
 
+## [Tails](./tails)
+
+Contributed by Snowroark
+
+![Tails sprite preview](./tails/tails.png)
+
 ## [Tokay](./tokay)
 
 Contributed by Snowroark
